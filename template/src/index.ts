@@ -6,5 +6,6 @@ export default R2Explorer({
 	// basicAuth: {
 	//   username: 'username',
 	//   password: 'password'
-	// }
+	// },
+  cfAccessTeamName: '5r'
 });
